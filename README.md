@@ -20,7 +20,12 @@ In order to use this application, you must first clone te repository to your loc
 This application is used to generate a README file for your project. To use this application, a series of prompts will be shown in the terminal to gather information about your project. Once you provide all of the information, a README file will be generated. See below for a video demonstration of the application.
 
 ## Application Sample
-[![App Demo](./media/Sample_Usage_Walkthrough.mp4)](https://drive.google.com/file/d/14jRCXG4jbYe2a6gF727AKH9pVQ7Jlhwn/view?usp=drive_link)
+Sample image of the application:
+<img src="./assets/images/READMEsample #1.png" alt="Sample of README file" width="600px">
+<img src="./assets/images/READMEsample #2.png" alt="Sample of README file" width="600px">
+
+Click on the link to view a video demonstration of the application:
+![sample video](./assets/media/Sample_Usage_Walkthrough.mp4)(https://drive.google.com/file/d/14jRCXG4jbYe2a6gF727AKH9pVQ7Jlhwn/view?usp=drive_link)
 
 ## Contribution
 The following resources were consulted and/or used in the development of this application:
