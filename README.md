@@ -22,9 +22,9 @@ This application is used to generate a README file for your project. To use this
 ## Application Sample
 Sample image of the application:
 
-<img src="./images/READMEsample #1.png>
+<img src="./images/READMEsample #1.png">
 
-<img src="./images/README sample #2.png>
+<img src="./images/README sample #2.png">
 
 Click on the link to view a video demonstration of the application:
 https://drive.google.com/file/d/14jRCXG4jbYe2a6gF727AKH9pVQ7Jlhwn/view?usp=drive_link
