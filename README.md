@@ -21,11 +21,13 @@ This application is used to generate a README file for your project. To use this
 
 ## Application Sample
 Sample image of the application:
-<img src="./assets/images/README sample #1.png" alt="Sample of README file" width="600px">
-<img src="./assets/images/READMEsample #2.png" alt="Sample of README file" width="600px">
+
+<img src="./images/READMEsample #1.png>
+
+<img src="./images/README sample #2.png>
 
 Click on the link to view a video demonstration of the application:
-![sample video](./assets/media/Sample_Usage_Walkthrough.mp4)(https://drive.google.com/file/d/14jRCXG4jbYe2a6gF727AKH9pVQ7Jlhwn/view?usp=drive_link)
+https://drive.google.com/file/d/14jRCXG4jbYe2a6gF727AKH9pVQ7Jlhwn/view?usp=drive_link
 
 ## Contribution
 The following resources were consulted and/or used in the development of this application:
